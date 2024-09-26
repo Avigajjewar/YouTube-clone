@@ -1,2 +1,7 @@
 # YouTube-clone
-This project is a simple youtube web, all the video related data is fetch from youtube API , that displays video categorized into " Gaming," "Automobiles," and "Sports" tabs. Each video includes the channel  Name , Thumbnail Image ,Title , views, and  date of upload .
+- Developed a user-friendly YouTube web application utilizing the
+YouTube API to fetch video-related data
+- Categorized videos into "Gaming," "Automobiles," and "Sports" tabs
+for easy navigation
+- Displayed video details including Channel Name, Thumbnail Image,
+Title, Views, and Date of Upload
