@@ -24,8 +24,7 @@ const Navbar = ({ setSidebar }) => {
         <Link to="/">
           <img
             className="logo"
-            src="
-          src/assets/youtube-svgrepo-com (1).svg"
+            src="src/assets/youtube-svgrepo-com (1).svg"
             alt=""
           />
         </Link>
